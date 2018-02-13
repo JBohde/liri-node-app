@@ -1,16 +1,18 @@
-require("dotenv").config();
-var keys = require("./keys.js");
+// https://jbohde.github.io/liri-node-app/
 
+require("dotenv").config();
+// Load the keys from the keys.js file
+var keys = require("./keys.js");
 // Load the fs package to read and write
 var fs = require("fs");
 
 // Take two arguments.
 // The first will be the action (i.e. "my-tweets", "spotify-this-song", etc.)
-// The second will be the item that will be passed into the corresponding function;
+// The second will be the value that will be passed into the corresponding function;
 var action = process.argv[2];
 var value = process.argv.slice(3);
 
-// We will then create a switch-case statement (if-then would also work).
+// Created a switch-case statement (if-then would also work).
 // The switch-case will direct which function gets run.
 switch (action) {
   case "my-tweets":
@@ -34,22 +36,22 @@ switch (action) {
 function spotifyThis() {
   var Spotify = require('node-spotify-api');
   var spotify = new Spotify(keys.spotify);
-
-  spotify.search({ type: 'track', query: value}, function(err, data) {
-    if (err) {
-      return console.log('Error occurred: ' + err);
-    }
-    for (var i = 0; i < 5; i++) {
-      // console.log(data.tracks);  
-      // console.log(data.tracks.items[0].album);
-      console.log(`The artist is ` + data.tracks.items[i].album.artists[0].name);
-      console.log(`The name of the track is ` + data.tracks.items[i].name);
-      console.log(`The track appears on the album ` + data.tracks.items[i].album.name);
-      console.log(`Preview the song: ` + data.tracks.items[i].preview_url);
-    }
-  });
+  if (value.length === 0) {
+    value = `Ace of Base The Sign`;
+  }
+    spotify.search({ type: 'track', query: value}, function(err, data) {
+      if (err) {
+        return console.log('Error occurred: ' + err);
+      }
+      for (var i = 0; i < 1; i++) {
+        console.log(`The artist is ` + data.tracks.items[i].album.artists[0].name);
+        console.log(`The name of the track is ` + data.tracks.items[i].name);
+        console.log(`The track appears on the album ` + data.tracks.items[i].album.name);
+        console.log(`Preview the song: ` + data.tracks.items[i].preview_url + `\n`);
+      }
+    });
+  
 }
-
 
 // ******* TWITTER ******* //
 function myTweets() {
@@ -71,7 +73,9 @@ function myTweets() {
 //  ******* OMDB ******* //
 function movieThis() {
   const request = require('request');
-
+  if (value.length === 0) {
+    value = `Mr. Nobody`;
+  }
   // Run a request to the OMDB API with the movie specified
   request(`http://www.omdbapi.com/?t=${value}&y=&plot=short&apikey=trilogy`, function(e, r, b) {
 
@@ -95,9 +99,6 @@ function movieThis() {
 
 // //  ******* DO-WHAT-IT-SAYS ******* //
 function doIt() {
-  // Includes the FS package for reading and writing packages
-  var fs = require("fs");
-
   // Running the readFile module that's inside of fs.
   // Stores the read information into the variable "data"
   fs.readFile("random.txt", "utf8", function(err, data) {
@@ -134,26 +135,11 @@ function doIt() {
   });
 }
 
-// const fs = require('fs');
 
-// // Store something from the command line
-// const textFile = process.argv[2];
+// Store something from the command line
+const textFile = `log.txt`;
 
-// // use fs.appendFile to write "Hello Kitty" into a file
-// // If the file didn't exist then it gets created
-// fs.appendFile(textFile, 'Hello Kitty ', function(err) {
-
-//   // If an error was experienced...
-//   if (err) {
-//     console.log(err);
-//   }
-//   // otherwise...
-//   else {
-//     console.log('Content Added!');
-//   }
-
-//   // OR, more conventionally...
-
-//   console.log(err || 'Content Added!');
-
-// });
+// use fs.appendFile to write the data into a file
+fs.appendFile(textFile, (action, value), function(err) {
+  console.log(err || 'Content Added!');
+});

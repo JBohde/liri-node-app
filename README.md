@@ -5,6 +5,36 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
   * Node.js
   * Your own set of corresponding API keys for Twitter, Spotify, and OMDB
 
+  * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
+   
+   * Like the Twitter API, the Spotify API requires you sign up as a developer to generate the necessary credentials. You can follow these steps in order to generate a **client id** and **client secret**:
+
+   * Step One: Visit <https://developer.spotify.com/my-applications/#!/>
+   
+   * Step Two: Either login to your existing Spotify account or create a new one (a free account is fine) and log in.
+
+   * Step Three: Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
+
+   * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
+
+   Get your Twitter API keys by following these steps:
+
+   * Step One: Visit <https://apps.twitter.com/app/new>
+   
+   * Step Two: Fill out the form with dummy data. Type `http://google.com` in the Website input. Don't fill out the Callback URL input. Then submit the form.
+   
+   * Step Three: On the next screen, click the Keys and Access Tokens tab to get your consume key and secret. 
+   
+   * Step Four: At the bottom of the page, click the `Create my access token` button to get your access token key and secret. 
+     
+   Get your OMDB API key by following these steps:
+
+   * Step One: Visit <http://www.omdbapi.com/apikey.aspx>
+
+   * Step Two: Sign up for the free account type (or become a Patreon!) and enter a valid email address.
+
+   * Step Three: Retrieve your API key from your email
+
 ### What Each Command Should Do
 
 1. `node liri.js my-tweets`

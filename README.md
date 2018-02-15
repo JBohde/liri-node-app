@@ -38,9 +38,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### What Each Command Should Do
 
-1. `node liri.js my-tweets`
+1. `node liri.js my-tweets '<user name here>'`
 
-   * This will show your last 20 tweets and when they were created at in your terminal/bash window.
+   * This will show the last 20 tweets of the user input and when they were created at in your terminal/bash window.
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
@@ -54,7 +54,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
      
      * The album that the song is from
 
-   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+   * If no song is provided then the program will default to "The Sign" by Ace of Base.
    
 3. `node liri.js movie-this '<movie name here>'`
 

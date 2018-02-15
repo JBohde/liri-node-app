@@ -10,3 +10,38 @@ The name of the track is All I Do Is Win - Feat. T-Pain, Ludacris, Snoop Dogg & 
 The track appears on the album All I Do Is Win (Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)
 Preview the song: https://p.scdn.co/mp3-preview/6f836c20fea27576840dd30651d42b768ce2f4ea?cid=22f7bc8c2c4b478ba764968bee23cfa0
 
+spotify-this-song, undefined
+The artist is Michael Jackson
+The name of the track is Beat It - Single Version
+The track appears on the album Thriller 25 Super Deluxe Edition
+Preview the song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+movie-this, undefined
+The name of the movie is Titanic
+Titanic was released 19 Dec 1997
+Titanic has an IMDB rating of 7.8
+Titanic has a Rotten Tomatoes rating of 88%
+Titanic was produced in USA
+Titanic is in the English, Swedish language
+The plot of Titanic is as follows: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Titanic stars the actors Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+spotify-this-song, undefined
+The artist is Michael Jackson
+The name of the track is Beat It - Single Version
+The track appears on the album Thriller 25 Super Deluxe Edition
+Preview the song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+spotify-this-song, undefined
+The artist is Sean Kingston
+The name of the track is Beat It
+The track appears on the album Back 2 Life
+Preview the song: https://p.scdn.co/mp3-preview/1d81ddec1bda16846ba1813c202751fc4a851a63?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+spotify-this-song, undefined
+The artist is Michael Jackson
+The name of the track is Beat It - Single Version
+The track appears on the album Michael Jackson's This Is It
+Preview the song: https://p.scdn.co/mp3-preview/386acb48d5b2f6c205200062b6ce158c4ba52647?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+On Thu Feb 15 12:12:41 +0000 2018, Donald J. Trump tweeted "So many signs that the Florida shooter was mentally disturbed, even expelled from school for bad and erratic behavi… https://t.co/3mSYrtTng6"

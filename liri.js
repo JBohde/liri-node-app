@@ -45,7 +45,7 @@ function spotifyThis() {
     value = `Ace of Base The Sign`;
     stringValue = value;
   }
-    spotify.search({ type: 'track', query: value}, function(err, data) {
+    spotify.search({ type: 'track', query: value.toString()}, function(err, data) {
       if (err) {
         return console.log('Error occurred: ' + err);
       }
@@ -72,10 +72,12 @@ function myTweets() {
   // for my dummy twitter the value should be: joshua_bohde
   client.get('statuses/user_timeline', params, function(error, tweets, response) {
   if (!error) {
-    for (var i = 0; i < 3; i++) {
-      // console.log(tweets);
-      console.log(tweets[i].created_at);
-      console.log(tweets[i].text);
+    for (var i = 0; i < 20; i++) {
+      // console.log(tweets[i]);
+      console.log(`On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"`);
+      fs.appendFile(textFile, (action + `, ` + stringValue + `\r\n` + `On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"`), function(err) {
+        console.log(err || 'Content logged!');
+      });
     }
   }
   });

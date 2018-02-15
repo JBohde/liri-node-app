@@ -2,20 +2,9 @@
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 ### Requirements
-  * Node.js
+
+  * Node.js[https://nodejs.org/en/]
   * Your own set of corresponding API keys for Twitter, Spotify, and OMDB
-
-  * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
-   
-   * Like the Twitter API, the Spotify API requires you sign up as a developer to generate the necessary credentials. You can follow these steps in order to generate a **client id** and **client secret**:
-
-   * Step One: Visit <https://developer.spotify.com/my-applications/#!/>
-   
-   * Step Two: Either login to your existing Spotify account or create a new one (a free account is fine) and log in.
-
-   * Step Three: Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
-
-   * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
 
    Get your Twitter API keys by following these steps:
 
@@ -25,7 +14,19 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
    
    * Step Three: On the next screen, click the Keys and Access Tokens tab to get your consume key and secret. 
    
-   * Step Four: At the bottom of the page, click the `Create my access token` button to get your access token key and secret. 
+   * Step Four: At the bottom of the page, click the `Create my access token` button to get your access token key and secret.
+
+   * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
+   
+   * Like the Twitter API, the Spotify API requires you sign up as a developer to generate the necessary credentials. You can follow these steps in order to generate a **client id** and **client secret**:
+
+   * Step One: Visit <https://developer.spotify.com/my-applications/#!/>
+   
+   * Step Two: Either login to your existing Spotify account or create a new one (a free account is fine) and log in.
+
+   * Step Three: Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
+
+   * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api). 
      
    Get your OMDB API key by following these steps:
 

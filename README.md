@@ -3,7 +3,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### Requirements
 
-  * Node.js[https://nodejs.org/en/]
+  * Node.js Visit <https://nodejs.org/en/>
   * Your own set of corresponding API keys for Twitter, Spotify, and OMDB
 
    Get your Twitter API keys by following these steps:

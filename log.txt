@@ -1,82 +1,100 @@
-spotify-this-song, undefined
-The artist is Backstreet Boys
-The name of the track is I Want It That Way
-The track appears on the album The Hits--Chapter One
-Preview the song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-spotify-this-song, undefined
-The artist is DJ Khaled
-The name of the track is All I Do Is Win - Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross
-The track appears on the album All I Do Is Win (Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)
-Preview the song: https://p.scdn.co/mp3-preview/6f836c20fea27576840dd30651d42b768ce2f4ea?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-spotify-this-song, undefined
-The artist is Michael Jackson
-The name of the track is Beat It - Single Version
-The track appears on the album Thriller 25 Super Deluxe Edition
-Preview the song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-movie-this, undefined
-The name of the movie is Titanic
-Titanic was released 19 Dec 1997
-Titanic has an IMDB rating of 7.8
-Titanic has a Rotten Tomatoes rating of 88%
-Titanic was produced in USA
-Titanic is in the English, Swedish language
-The plot of Titanic is as follows: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
-Titanic stars the actors Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
-
-spotify-this-song, undefined
-The artist is Michael Jackson
-The name of the track is Beat It - Single Version
-The track appears on the album Thriller 25 Super Deluxe Edition
-Preview the song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-spotify-this-song, undefined
-The artist is Sean Kingston
-The name of the track is Beat It
-The track appears on the album Back 2 Life
-Preview the song: https://p.scdn.co/mp3-preview/1d81ddec1bda16846ba1813c202751fc4a851a63?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-spotify-this-song, undefined
-The artist is Michael Jackson
-The name of the track is Beat It - Single Version
-The track appears on the album Michael Jackson's This Is It
-Preview the song: https://p.scdn.co/mp3-preview/386acb48d5b2f6c205200062b6ce158c4ba52647?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-On Thu Feb 15 12:12:41 +0000 2018, Donald J. Trump tweeted "So many signs that the Florida shooter was mentally disturbed, even expelled from school for bad and erratic behavi… https://t.co/3mSYrtTng6"spotify-this-song, ballad,for,the,lost,romantics
-The artist is New Found Glory
-The name of the track is Ballad For The Lost Romantics
-The track appears on the album New Found Glory
-Preview the song: null
-
-spotify-this-song, dear,catastrophe,waitress
-The artist is Belle & Sebastian
-The name of the track is Piazza, New York Catcher
-The track appears on the album Dear Catastrophe Waitress
-Preview the song: https://p.scdn.co/mp3-preview/5d84d349d91a97c08c2263ddc7e3b30c604e0e3c?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-spotify-this-song, the,wind
-The artist is SZA
-The name of the track is Doves In The Wind
-The track appears on the album Ctrl
-Preview the song: https://p.scdn.co/mp3-preview/300bd09a2ea5231ac4f8de61e8ef7bfd94711a18?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-spotify-this-song, your,best,american,girl
-The artist is Mitski
-The name of the track is Your Best American Girl
-The track appears on the album Puberty 2
-Preview the song: https://p.scdn.co/mp3-preview/9be3679be4314855260ca9010e4a6a73f74e4d28?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
-spotify-this-song, Working Poor
-The artist is Fantastic Negrito
-The name of the track is Working Poor
-The track appears on the album The Last Days of Oakland
-Preview the song: https://p.scdn.co/mp3-preview/dc2d0c1ecd3c53115b68fc76084685785e514750?cid=22f7bc8c2c4b478ba764968bee23cfa0
-
 spotify-this-song, Ace Of Base The Sign
 The artist is Ace of Base
 The name of the track is The Sign
 The track appears on the album The Sign (US Album) [Remastered]
 Preview the song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+spotify-this-song, All I Do Is Win
+The artist is DJ Khaled
+The name of the track is All I Do Is Win - Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross
+The track appears on the album All I Do Is Win (Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)
+Preview the song: https://p.scdn.co/mp3-preview/6f836c20fea27576840dd30651d42b768ce2f4ea?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+my-tweets, Benlesh
+On Thu Feb 15 06:55:42 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@rob_dodson Really I'm just going to rent and save so I can send my kids to school and retire back to the Midwest..… https://t.co/M6NEN43S8C"
+
+my-tweets, Benlesh
+On Thu Feb 15 05:17:24 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "Yup. Can't afford a house here. Also, I'm apparently a below-average developer. Haha. Oh well. 
+
+ https://t.co/uT2xAmZtCT"
+
+my-tweets, Benlesh
+On Thu Feb 15 04:37:25 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@ppk @chriseppstein Everyone that wants to create and learn is welcome in my craft. They can even call it "their" c… https://t.co/IRfoDPRVz5"
+
+my-tweets, Benlesh
+On Thu Feb 15 06:52:06 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@rob_dodson Even with equity, at age 40, if I bought here, I'd have to clean out all of my investments and savings… https://t.co/DQTH03brT6"
+
+my-tweets, Benlesh
+On Thu Feb 15 04:29:28 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@KaylynneHatch LMAO Trump looks the same. Hair and all."
+
+my-tweets, Benlesh
+On Thu Feb 15 04:26:51 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya @_ojkwon Often you can test the mapping function you're passing to concatMap separately, and then mock it for other tests."
+
+my-tweets, Benlesh
+On Thu Feb 15 04:05:10 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya The TestScheduler is limited and woefully under-documented. rx-sandbox is worth trying as it's a better implemention by @_ojkwon"
+
+my-tweets, Benlesh
+On Thu Feb 15 04:03:44 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya If it helps, marble tests are really only necessary if there's a timing delay in your app. Like a debounceTime or the like."
+
+my-tweets, Benlesh
+On Thu Feb 15 03:50:08 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya How can I help?"
+
+my-tweets, Benlesh
+On Thu Feb 15 03:16:36 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@_jayphelps @left_pad You know, it's already tomorrow in China."
+
+my-tweets, Benlesh
+On Thu Feb 15 02:13:14 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "RT @iam_preethi: Me, every time I end up on LinkedIn and realize what I've done. https://t.co/D4GsBN9u8a"
+
+my-tweets, Benlesh
+On Wed Feb 14 23:45:45 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "RT @ChromeDevTools: Coming soon in Chrome 65: Multiple recordings in the Performance panel https://t.co/9HVXpZrrU5"
+
+my-tweets, Benlesh
+On Wed Feb 14 22:54:52 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@ClashCityKing Functions, by virtue of the fact they must be invoked, are always lazy. If you define a function, it… https://t.co/ZS0g8BACdE"
+
+my-tweets, Benlesh
+On Wed Feb 14 22:52:44 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "RT @bahmutov: @BenLesh Roses are red
+Violets are blue
+Promises are eager
+And will surprise you"
+
+my-tweets, Benlesh
+On Wed Feb 14 17:48:43 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@DeborahKurata @ladyleet We focus on no particular framework, but I do go into answering questions about both Angul… https://t.co/CLZZTX0AEE"
+
+my-tweets, Benlesh
+On Wed Feb 14 17:47:42 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@emilpersson Q: How would you decide what part of the program is responsible for actually executing it?
+
+A: Explici… https://t.co/fgUxzZWquW"
+
+my-tweets, Benlesh
+On Wed Feb 14 17:44:40 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@cyrilletuzi Well, *then* you might need it to be a factory function... *OR* you could 
+have it be a property that… https://t.co/hOMHS1Edad"
+
+my-tweets, Benlesh
+On Wed Feb 14 17:42:09 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tomasz_ducin Observables are a primitive, there's a variety of ways to use them. It's just most people don't reali… https://t.co/0ezlrrWeoi"
+
+my-tweets, Benlesh
+On Wed Feb 14 17:40:19 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@searls Who knows? Maybe Echo and Home will take a dive for some reason too. You never can tell."
+
+my-tweets, Benlesh
+On Thu Feb 15 04:05:59 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya @_ojkwon If you can, just use a Subject or a synchronous observable for your tests. Most of the time it's all you need."
+
+movie-this, The Departed
+The name of the movie is The Departed
+The Departed was released 06 Oct 2006
+The Departed has an IMDB rating of 8.5
+The Departed has a Rotten Tomatoes rating of 91%
+The Departed was produced in USA, Hong Kong
+The Departed is in the English, Cantonese language
+The plot of The Departed is as follows: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+The Departed stars the actors Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+
+movie-this, Mr. Nobody
+The name of the movie is Mr. Nobody
+Mr. Nobody was released 26 Sep 2013
+Mr. Nobody has an IMDB rating of 7.9
+Mr. Nobody has a Rotten Tomatoes rating of 66%
+Mr. Nobody was produced in Belgium, Germany, Canada, France, USA, UK
+Mr. Nobody is in the English, Mohawk language
+The plot of Mr. Nobody is as follows: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Mr. Nobody stars the actors Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 

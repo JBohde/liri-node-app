@@ -10,7 +10,7 @@ var fs = require("fs");
 // The first will be the action (i.e. "my-tweets", "spotify-this-song", etc.)
 // The second will be the value that will be passed into the corresponding function;
 var action = process.argv[2];
-var value = process.argv.slice(3);
+var value = process.argv.slice(3).toString();
 
 // Created a switch-case statement (if-then would also work).
 // The switch-case will direct which function gets run.
@@ -34,28 +34,42 @@ switch (action) {
 
  // Store something from the command line
 const textFile = `log.txt`;
-var stringValue;
 
+// Removing all the commas from the string
+var stringValue = value.replace(/[, ]+/g, " ").trim();
+
+// Capitalizing the first letter in each word
+function toUpper(str) {
+  return str
+      .toLowerCase()
+      .split(' ')
+      .map(function(word) {
+          return word[0].toUpperCase() + word.substr(1);
+      })
+      .join(' ');
+   }
 
 // ******* SPOTIFY ******* //
 function spotifyThis() {
   var Spotify = require('node-spotify-api');
   var spotify = new Spotify(keys.spotify);
+  // Setting the value if none is placed
   if (value.length === 0) {
     value = `Ace of Base The Sign`;
     stringValue = value;
   }
-    spotify.search({ type: 'track', query: value.toString()}, function(err, data) {
+    spotify.search({ type: 'track', query: value}, function(err, data) {
       if (err) {
         return console.log('Error occurred: ' + err);
       }
       for (var i = 0; i < 1; i++) {
+        // Parsing and arranging the requested data in a reader friendly form, and then logging to log.txt file
         var artist = `The artist is ` + data.tracks.items[i].album.artists[0].name + `\r\n`;
         var track = `The name of the track is ` + data.tracks.items[i].name + `\r\n`;
         var album = `The track appears on the album ` + data.tracks.items[i].album.name + `\r\n`;
         var preview = `Preview the song: ` + data.tracks.items[i].preview_url + `\r\n`  + `\r\n`;
         console.log(artist + track + album + preview);
-        fs.appendFile(textFile, (action + `, ` + stringValue + `\r\n`+ artist + track + album + preview), function(err) {
+        fs.appendFile(textFile, (action + `, ` + toUpper(stringValue) + `\r\n`+ artist + track + album + preview), function(err) {
           console.log(err || 'Content logged!');
         });
       }
@@ -74,8 +88,9 @@ function myTweets() {
   if (!error) {
     for (var i = 0; i < 20; i++) {
       // console.log(tweets[i]);
+      // Parsing and arranging the requested data in a reader friendly form, and then logging to log.txt file
       console.log(`On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"`);
-      fs.appendFile(textFile, (action + `, ` + stringValue + `\r\n` + `On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"`), function(err) {
+      fs.appendFile(textFile, (action + `, ` + toUpper(stringValue) + `\r\n` + `On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"` + `\r\n`  + `\r\n`), function(err) {
         console.log(err || 'Content logged!');
       });
     }
@@ -95,9 +110,8 @@ function movieThis() {
 
     // If the request is successful (i.e. if the response status code is 200)
     if (!e && r.statusCode === 200) {
-
-      // Parsing the body of the site and displaying just the required data
       // console.log(b);
+      // Parsing the body of the site and displaying just the required data
       var movieTitle = `${JSON.parse(b).Title}`;
       var movieName = `The name of the movie is ` + movieTitle + `\r\n`;
       var yearReleased = movieTitle + ` was released ${JSON.parse(b).Released}` + `\r\n`
@@ -108,7 +122,7 @@ function movieThis() {
       var plot = `The plot of ` + movieTitle + ` is as follows: ${JSON.parse(b).Plot}` + `\r\n`;
       var actors = movieTitle + ` stars the actors ${JSON.parse(b).Actors}` + `\r\n` + `\r\n`;
       console.log(movieName + yearReleased + imdbScore + rottenScore + produced + language + plot + actors);
-      fs.appendFile(textFile, (action + `, ` + stringValue + `\r\n`+ movieName + yearReleased + imdbScore + rottenScore + produced + language + plot + actors), function(err) {
+      fs.appendFile(textFile, (action + `, ` + toUpper(stringValue) + `\r\n`+ movieName + yearReleased + imdbScore + rottenScore + produced + language + plot + actors), function(err) {
         console.log(err || 'Content logged!');
       });
 

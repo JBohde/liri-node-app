@@ -44,4 +44,39 @@ The name of the track is Beat It - Single Version
 The track appears on the album Michael Jackson's This Is It
 Preview the song: https://p.scdn.co/mp3-preview/386acb48d5b2f6c205200062b6ce158c4ba52647?cid=22f7bc8c2c4b478ba764968bee23cfa0
 
-On Thu Feb 15 12:12:41 +0000 2018, Donald J. Trump tweeted "So many signs that the Florida shooter was mentally disturbed, even expelled from school for bad and erratic behavi… https://t.co/3mSYrtTng6"
+On Thu Feb 15 12:12:41 +0000 2018, Donald J. Trump tweeted "So many signs that the Florida shooter was mentally disturbed, even expelled from school for bad and erratic behavi… https://t.co/3mSYrtTng6"spotify-this-song, ballad,for,the,lost,romantics
+The artist is New Found Glory
+The name of the track is Ballad For The Lost Romantics
+The track appears on the album New Found Glory
+Preview the song: null
+
+spotify-this-song, dear,catastrophe,waitress
+The artist is Belle & Sebastian
+The name of the track is Piazza, New York Catcher
+The track appears on the album Dear Catastrophe Waitress
+Preview the song: https://p.scdn.co/mp3-preview/5d84d349d91a97c08c2263ddc7e3b30c604e0e3c?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+spotify-this-song, the,wind
+The artist is SZA
+The name of the track is Doves In The Wind
+The track appears on the album Ctrl
+Preview the song: https://p.scdn.co/mp3-preview/300bd09a2ea5231ac4f8de61e8ef7bfd94711a18?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+spotify-this-song, your,best,american,girl
+The artist is Mitski
+The name of the track is Your Best American Girl
+The track appears on the album Puberty 2
+Preview the song: https://p.scdn.co/mp3-preview/9be3679be4314855260ca9010e4a6a73f74e4d28?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+spotify-this-song, Working Poor
+The artist is Fantastic Negrito
+The name of the track is Working Poor
+The track appears on the album The Last Days of Oakland
+Preview the song: https://p.scdn.co/mp3-preview/dc2d0c1ecd3c53115b68fc76084685785e514750?cid=22f7bc8c2c4b478ba764968bee23cfa0
+
+spotify-this-song, Ace Of Base The Sign
+The artist is Ace of Base
+The name of the track is The Sign
+The track appears on the album The Sign (US Album) [Remastered]
+Preview the song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22f7bc8c2c4b478ba764968bee23cfa0
+

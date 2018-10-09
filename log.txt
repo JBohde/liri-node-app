@@ -4,103 +4,186 @@ The name of the track is The Sign
 The track appears on the album The Sign (US Album) [Remastered]
 Preview the song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22f7bc8c2c4b478ba764968bee23cfa0
 
-spotify-this-song, All I Do Is Win
-The artist is DJ Khaled
-The name of the track is All I Do Is Win - Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross
-The track appears on the album All I Do Is Win (Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)
-Preview the song: https://p.scdn.co/mp3-preview/6f836c20fea27576840dd30651d42b768ce2f4ea?cid=22f7bc8c2c4b478ba764968bee23cfa0
+my-tweets, Benlesh
+On Thu Mar 08 08:38:09 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@jamiebuilds 6? 🤷‍♂️"
 
 my-tweets, Benlesh
-On Thu Feb 15 06:55:42 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@rob_dodson Really I'm just going to rent and save so I can send my kids to school and retire back to the Midwest..… https://t.co/M6NEN43S8C"
+On Thu Mar 08 08:30:17 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@jamiebuilds Is it? Because I thought it was.. but then it got really serious and they locked the issue. 🤔
+
+Hilario… https://t.co/13e18u5hbp"
 
 my-tweets, Benlesh
-On Thu Feb 15 05:17:24 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "Yup. Can't afford a house here. Also, I'm apparently a below-average developer. Haha. Oh well. 
-
- https://t.co/uT2xAmZtCT"
+On Thu Mar 08 08:27:33 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@abritinthebay @notwaldorf Ben "Sassy-Smoosh" Lesh, they call me. https://t.co/AJNNYLZ4c1"
 
 my-tweets, Benlesh
-On Thu Feb 15 04:37:25 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@ppk @chriseppstein Everyone that wants to create and learn is welcome in my craft. They can even call it "their" c… https://t.co/IRfoDPRVz5"
+On Thu Mar 08 08:19:14 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@notwaldorf if we can get smoosh to craft emojis, I'm all in. https://t.co/A2JOWRyRnZ"
 
 my-tweets, Benlesh
-On Thu Feb 15 06:52:06 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@rob_dodson Even with equity, at age 40, if I bought here, I'd have to clean out all of my investments and savings… https://t.co/DQTH03brT6"
+On Thu Mar 08 08:19:38 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "RT @CedricSoulas: Full animation and article: https://t.co/FbwUN8fPn9
+
+TL;DR
+I’ve highlighted the differences: https://t.co/almo1t2bxy"
 
 my-tweets, Benlesh
-On Thu Feb 15 04:29:28 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@KaylynneHatch LMAO Trump looks the same. Hair and all."
+On Thu Mar 08 08:25:20 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@jamiebuilds I'm well aware. I still think smoosh is *hilarious*. ... And probably the wrong decision. ... But mostly hilarious."
 
 my-tweets, Benlesh
-On Thu Feb 15 04:26:51 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya @_ojkwon Often you can test the mapping function you're passing to concatMap separately, and then mock it for other tests."
+On Thu Mar 08 08:15:16 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@_jayphelps @jmeaspls Presented for #TC39 consideration... https://t.co/apleHQoaru"
 
 my-tweets, Benlesh
-On Thu Feb 15 04:05:10 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya The TestScheduler is limited and woefully under-documented. rx-sandbox is worth trying as it's a better implemention by @_ojkwon"
+On Thu Mar 08 08:17:02 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@_jayphelps @jmeaspls If there's any confusion about my last tweet, I clearly mean `spongeMap`.
+
+Alternatively, `smooshMapSquarePants()`"
 
 my-tweets, Benlesh
-On Thu Feb 15 04:03:44 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya If it helps, marble tests are really only necessary if there's a timing delay in your app. Like a debounceTime or the like."
+On Thu Mar 08 08:13:54 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@mweststrate ([[🍞],[🐖],[🍅]]).smoosh() === 🌭"
 
 my-tweets, Benlesh
-On Thu Feb 15 03:50:08 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya How can I help?"
+On Thu Mar 08 08:08:50 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@_jayphelps @jmeaspls  https://t.co/NL8mDRlpR7"
 
 my-tweets, Benlesh
-On Thu Feb 15 03:16:36 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@_jayphelps @left_pad You know, it's already tomorrow in China."
+On Thu Mar 08 07:53:48 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "RT @felixfbecker: @BenLesh So if it still wasn't clear to someone, there is now proof that patching global prototypes is LITERALLY the reas…"
 
 my-tweets, Benlesh
-On Thu Feb 15 02:13:14 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "RT @iam_preethi: Me, every time I end up on LinkedIn and realize what I've done. https://t.co/D4GsBN9u8a"
+On Thu Mar 08 07:52:23 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "Maybe instead of using a thesaurus, we could just use onomatopoeias for the action:
+
+flurpMap
+bloopMap
+blorpMap
+pssshMap"
 
 my-tweets, Benlesh
-On Wed Feb 14 23:45:45 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "RT @ChromeDevTools: Coming soon in Chrome 65: Multiple recordings in the Performance panel https://t.co/9HVXpZrrU5"
+On Thu Mar 08 07:47:25 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "RT @jamiebuilds: @_jayphelps I would really love if we could adopt package management as part of the web. Certain things really should be a…"
 
 my-tweets, Benlesh
-On Wed Feb 14 22:54:52 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@ClashCityKing Functions, by virtue of the fact they must be invoked, are always lazy. If you define a function, it… https://t.co/ZS0g8BACdE"
+On Thu Mar 08 07:46:47 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "RT @_jayphelps: While it’s always been neat that you could do so, the web is uniquely affected by this feature preventing language progress…"
 
 my-tweets, Benlesh
-On Wed Feb 14 22:52:44 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "RT @bahmutov: @BenLesh Roses are red
-Violets are blue
-Promises are eager
-And will surprise you"
+On Thu Mar 08 06:06:03 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@sehurlburt Reminds me of Star Wars for some reason. Just subtly. I like it."
 
 my-tweets, Benlesh
-On Wed Feb 14 17:48:43 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@DeborahKurata @ladyleet We focus on no particular framework, but I do go into answering questions about both Angul… https://t.co/CLZZTX0AEE"
+On Thu Mar 08 07:47:00 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "RT @_jayphelps: Perhaps the web can ship the native JS classes as a host provided ES module and have those particular ones prevent prototyp…"
 
 my-tweets, Benlesh
-On Wed Feb 14 17:47:42 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@emilpersson Q: How would you decide what part of the program is responsible for actually executing it?
-
-A: Explici… https://t.co/fgUxzZWquW"
+On Thu Mar 08 05:25:58 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@notwaldorf No, it didn't see it because the tweet I replied to was the only one in my Twitter timeline. It wasn't the whole thread."
 
 my-tweets, Benlesh
-On Wed Feb 14 17:44:40 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@cyrilletuzi Well, *then* you might need it to be a factory function... *OR* you could 
-have it be a property that… https://t.co/hOMHS1Edad"
+On Thu Mar 08 05:29:53 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@notwaldorf But I'll happily give you my parents' phone number if you want to call them. But not until morning, my… https://t.co/6iHys4m5rg"
 
 my-tweets, Benlesh
-On Wed Feb 14 17:42:09 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tomasz_ducin Observables are a primitive, there's a variety of ways to use them. It's just most people don't reali… https://t.co/0ezlrrWeoi"
+On Thu Mar 08 05:03:11 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@notwaldorf I see what you're saying, but `flatten` is an idiom that extends from many other long-standing implemen… https://t.co/BrYkbJ0Gun"
 
 my-tweets, Benlesh
-On Wed Feb 14 17:40:19 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@searls Who knows? Maybe Echo and Home will take a dive for some reason too. You never can tell."
+On Thu Mar 08 05:27:59 +0000 2018, Ben LeSmoosh 🛋️👑🔥 tweeted "@notwaldorf Haha... Just read it.. I don't think I was being "sassy". But I could be sassy, I guess. I also had leg… https://t.co/wbufXrHI2b"
 
-my-tweets, Benlesh
-On Thu Feb 15 04:05:59 +0000 2018, Ben Lesh 🛋️👑🔥 tweeted "@tanya @_ojkwon If you can, just use a Subject or a synchronous observable for your tests. Most of the time it's all you need."
+my-tweets, Sethmacfarlane
+On Tue Mar 06 18:58:06 +0000 2018, Seth MacFarlane tweeted "RT @pattonoswalt: THERE IS NO DONALD ONLY ZUUL. https://t.co/i60SBn1OIb"
+
+my-tweets, Sethmacfarlane
+On Tue Mar 06 16:49:23 +0000 2018, Seth MacFarlane tweeted "Season 2 https://t.co/6xM1EvtEFv"
+
+my-tweets, Sethmacfarlane
+On Tue Mar 06 00:51:58 +0000 2018, Seth MacFarlane tweeted "RT @SenWhitehouse: Republicans give some middle-class Americans a $75-a-year tax cut. Then Republicans go after Medicare/Medicaid and other…"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 22:37:34 +0000 2018, Seth MacFarlane tweeted "RT @exploreplanets: Jupiter, you are one crazy beautiful planet.
+
+New @NASAJuno processed image from @_TheSeaning  https://t.co/c0cmEnSiw0…"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 21:01:07 +0000 2018, Seth MacFarlane tweeted "RT @joekjoek: If one more motherfucker says “You can make a movie on your phone” I’m going to do it, and it’s gonna look and sound so, so b…"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 21:00:12 +0000 2018, Seth MacFarlane tweeted "RT @RepAdamSchiff: No, Mr. President. The FBI investigation began when it was discovered that the Russians had secret discussions with your…"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 05:19:56 +0000 2018, Seth MacFarlane tweeted "Inspired screenplay, great movie.  Can’t think of a reason why not. https://t.co/w0Dg9JbPYg"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 05:17:16 +0000 2018, Seth MacFarlane tweeted "“Arthur”, “Tootsie”, “Defending Your Life”, “Little Shop of Horrors”, “Back to the Future” - why not any of these? https://t.co/vvl4C5hobA"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 04:50:10 +0000 2018, Seth MacFarlane tweeted "Good to see Guillermo del Toro with some big wins - as kind and good-natured as he is talented."
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 04:42:14 +0000 2018, Seth MacFarlane tweeted "Watch em fuck up again— hundred bucks they open that envelope and it’s Best Picture: “Oliver!”"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 04:36:30 +0000 2018, Seth MacFarlane tweeted "Why not?  It broke a shitload of new ground, and was undeniably hilarious. https://t.co/upVJYdneZG"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 04:35:07 +0000 2018, Seth MacFarlane tweeted "Comedic elements for sure, but still a dramatic story first. Im talking about an unabashed comedy. https://t.co/1lvzWFksPu"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 04:31:28 +0000 2018, Seth MacFarlane tweeted "Here’s another big problem with the Oscars no one talks about: It’s 99% drama. Until a movie like “Bridesmaids” or… https://t.co/tGOQU6NrUe"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 03:44:55 +0000 2018, Seth MacFarlane tweeted "Love ya, @WesleyStudi - good to see you on that stage"
+
+my-tweets, Sethmacfarlane
+On Mon Mar 05 03:41:09 +0000 2018, Seth MacFarlane tweeted "@JordanPeele!  So fucking well-deserved.  A great script, a great movie, and a reminder of what real, thoughtful sc… https://t.co/qXFiv5qbZC"
+
+my-tweets, Sethmacfarlane
+On Sun Mar 04 08:51:30 +0000 2018, Seth MacFarlane tweeted "RT @JustDawnieHere: @SethMacFarlane A moment of silence is going to be outweighed by a movement of young voters."
+
+my-tweets, Sethmacfarlane
+On Sun Mar 04 08:48:00 +0000 2018, Seth MacFarlane tweeted "State Sen. Kelli Stargel.  Part of the problem. https://t.co/Mclk5jyLq3"
+
+my-tweets, Sethmacfarlane
+On Sun Mar 04 08:45:38 +0000 2018, Seth MacFarlane tweeted "Fuck your moment of silence, you backward shitheads. https://t.co/FjArwaipdH"
+
+my-tweets, Sethmacfarlane
+On Sun Mar 04 07:13:11 +0000 2018, Seth MacFarlane tweeted "RT @david8hughes: Me: alright early to bed
+Brain: nice
+Me: need a good night sleep
+Brain: rest is important
+Me: don’t go saying shit to kee…"
+
+my-tweets, Sethmacfarlane
+On Sat Mar 03 23:07:13 +0000 2018, Seth MacFarlane tweeted "RT @NOTVIKING: me when i see a short person: i’d better not mention their height, they probably get that a lot and they might be sensitive…"
+
+movie-this, Anchorman
+The name of the movie is Anchorman
+Anchorman was released 01 Dec 2009
+Anchorman has an IMDB rating of 5.9
+Anchorman was produced in Italy
+Anchorman is in the N/A language
+The plot of Anchorman is as follows: N/A
+Anchorman stars the actors Marco Di Francisca
 
 movie-this, The Departed
 The name of the movie is The Departed
 The Departed was released 06 Oct 2006
 The Departed has an IMDB rating of 8.5
-The Departed has a Rotten Tomatoes rating of 91%
 The Departed was produced in USA, Hong Kong
 The Departed is in the English, Cantonese language
 The plot of The Departed is as follows: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
 The Departed stars the actors Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
 
-movie-this, Mr. Nobody
-The name of the movie is Mr. Nobody
-Mr. Nobody was released 26 Sep 2013
-Mr. Nobody has an IMDB rating of 7.9
-Mr. Nobody has a Rotten Tomatoes rating of 66%
-Mr. Nobody was produced in Belgium, Germany, Canada, France, USA, UK
-Mr. Nobody is in the English, Mohawk language
-The plot of Mr. Nobody is as follows: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Mr. Nobody stars the actors Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+movie-this, The Departed
+The name of the movie is The Departed
+The Departed was released 06 Oct 2006
+The Departed has an IMDB rating of 8.5
+The Departed was produced in USA, Hong Kong
+The Departed is in the English, Cantonese language
+The plot of The Departed is as follows: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+The Departed stars the actors Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
 
-spotify-this-song, My Friends Over You
-The artist is New Found Glory
-The name of the track is My Friends Over You
-The track appears on the album Sticks and Stones
-Preview the song: null
+my-tweets, Joshua_bohde
+On Thu Feb 15 13:22:17 +0000 2018, Joshua Bohde tweeted "I am a tweet"
+
+my-tweets, Joshua_bohde
+On Tue Feb 13 20:37:28 +0000 2018, Joshua Bohde tweeted "RT @CraigJ_NandO: Atlantic Coast Pipeline would run near Governor Roy Cooper’s family property https://t.co/DBwPxVhjza"
+
+my-tweets, Joshua_bohde
+On Tue Feb 13 20:28:14 +0000 2018, Joshua Bohde tweeted "RT @JavaScriptDaily: 🔥 Here's what's trending over on our Daily JS Medium: https://t.co/OHLn2UhxhV https://t.co/o5cAgw4ASN"
+
+my-tweets, Joshua_bohde
+On Mon Feb 12 22:59:55 +0000 2018, Joshua Bohde tweeted "https://t.co/YZ5DxP8LZC"
+
+my-tweets, Joshua_bohde
+On Mon Feb 12 19:20:11 +0000 2018, Joshua Bohde tweeted "RT @SportsCenter: Osman ... oh no 😬 #SCNotTop10 https://t.co/bViFKogGwo"
+
+my-tweets, Joshua_bohde
+On Mon Feb 12 19:19:41 +0000 2018, Joshua Bohde tweeted "RT @DepressedDarth: The Grey Jedi Code https://t.co/rvTabu31JL"
 

@@ -86,7 +86,8 @@ function myTweets() {
   // for my dummy twitter the value should be: joshua_bohde
   client.get('statuses/user_timeline', params, function(error, tweets, response) {
   if (!error) {
-    for (var i = 0; i < 20; i++) {
+    for (var i = 0; i < tweets.length; i++) {
+      if(i > 20) return;
       // console.log(tweets[i]);
       // Parsing and arranging the requested data in a reader friendly form, and then logging to log.txt file
       console.log(`On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"`);
@@ -110,19 +111,19 @@ function movieThis() {
 
     // If the request is successful (i.e. if the response status code is 200)
     if (!e && r.statusCode === 200) {
-      // console.log(b);
+      console.log(b);
       // Parsing the body of the site and displaying just the required data
       var movieTitle = `${JSON.parse(b).Title}`;
       var movieName = `The name of the movie is ` + movieTitle + `\r\n`;
       var yearReleased = movieTitle + ` was released ${JSON.parse(b).Released}` + `\r\n`
       var imdbScore = movieTitle + ` has an IMDB rating of ${JSON.parse(b).imdbRating}` + `\r\n`;
-      var rottenScore = movieTitle + ` has a ${JSON.parse(b).Ratings[1].Source} rating of ${JSON.parse(b).Ratings[1].Value}` + `\r\n`;
+      // var rottenScore = movieTitle + ` has a Rotten Tomatoes rating of ${JSON.parse(b).Ratings[1].Value}` + `\r\n`;
       var produced = movieTitle + ` was produced in ${JSON.parse(b).Country}` + `\r\n`;
       var language = movieTitle + ` is in the ${JSON.parse(b).Language} language` + `\r\n`;
       var plot = `The plot of ` + movieTitle + ` is as follows: ${JSON.parse(b).Plot}` + `\r\n`;
       var actors = movieTitle + ` stars the actors ${JSON.parse(b).Actors}` + `\r\n` + `\r\n`;
-      console.log(movieName + yearReleased + imdbScore + rottenScore + produced + language + plot + actors);
-      fs.appendFile(textFile, (action + `, ` + toUpper(stringValue) + `\r\n`+ movieName + yearReleased + imdbScore + rottenScore + produced + language + plot + actors), function(err) {
+      console.log(movieName + yearReleased + imdbScore + produced + language + plot + actors);
+      fs.appendFile(textFile, (action + `, ` + toUpper(stringValue) + `\r\n`+ movieName + yearReleased + imdbScore + produced + language + plot + actors), function(err) {
         console.log(err || 'Content logged!');
       });
 

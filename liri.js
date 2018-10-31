@@ -90,8 +90,8 @@ function myTweets() {
       if(i > 20) return;
       // console.log(tweets[i]);
       // Parsing and arranging the requested data in a reader friendly form, and then logging to log.txt file
-      console.log(`On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"`);
-      fs.appendFile(textFile, (action + `, ` + toUpper(stringValue) + `\r\n` + `On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"` + `\r\n`  + `\r\n`), function(err) {
+      console.log(`On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"` + '\n');
+      fs.appendFile(textFile, (action + `, ` + stringValue + `\r\n` + `On ` + tweets[i].created_at + `, ` + tweets[i].user.name + ` tweeted ` + `"` + tweets[i].text +`"` + `\r\n`  + `\r\n`), function(err) {
         console.log(err || 'Content logged!');
       });
     }
@@ -111,7 +111,7 @@ function movieThis() {
 
     // If the request is successful (i.e. if the response status code is 200)
     if (!e && r.statusCode === 200) {
-      console.log(b);
+      // console.log(b);
       // Parsing the body of the site and displaying just the required data
       var movieTitle = `${JSON.parse(b).Title}`;
       var movieName = `The name of the movie is ` + movieTitle + `\r\n`;
